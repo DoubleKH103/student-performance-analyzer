@@ -9,3 +9,4 @@ def binary(arr, target):
       low = mid + 1
     else:
       high = mid - 1
+  return None  # Return None if target is not found
