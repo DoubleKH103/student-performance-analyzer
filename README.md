@@ -14,5 +14,6 @@ A simple Python project that analyzes students' grades using pandas.
 - matplotlib
 
 ## Output
+![Student Averages](student_averages.png)
 The project generates a chart saved as:
 student_averages.png
